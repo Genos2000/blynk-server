@@ -1,1 +1,1 @@
-web: java $JAVA_OPTS
+web: java $JAVA_OPTS -serverConfig /app/server.properties
